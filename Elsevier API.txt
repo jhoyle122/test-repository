@@ -1,0 +1,6 @@
+http://api.elsevier.com/content/search/scidir?start={0}&count={1}&query=srctitle%28%22The+Journal+of+the+American+Dental+Association%22%29&view=complete&apiKey=71f928520252d1b6bb992950e824b48c&date={2}-{3}&sort=-coverDate&field=pii,title,description,coverDate&suppressNavLinks=true&httpAccept=application/json
+
+https://staging.elsapi-np.elsst.com/content/metadata/article?start=1&count=20&query=srctitle%28%22The+Journal+of+the+American+Dental+Association%22%29&view=complete&apiKey=71f928520252d1b6bb992950e824b48c
+&field=pii,title,description,coverDate&suppressNavLinks=true&httpAccept=application/json
+
+System.Management.Automation.Runspaces.AuthenticationMechanism
